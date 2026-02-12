@@ -130,10 +130,12 @@ mytalk/
 ## Screenshots
 
 ### Login Screen
-Modern login interface to enter username and select a room.
+<img width="1917" height="857" alt="mytalk0" src="https://github.com/user-attachments/assets/729f66c1-fce1-4af5-b872-efd73090abe6" />
+
 
 ### Chat Room
-Full-featured MyTalk interface with sidebar navigation and online users panel.
+<img width="1918" height="861" alt="mytalk1" src="https://github.com/user-attachments/assets/af72597e-f503-459d-8a32-f6bb35e5a3a1" />
+
 
 ## Deployment
 
